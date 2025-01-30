@@ -18,7 +18,7 @@ dex2jar
 jd-gui
 smali
 
-✔️ Descompilar APKs con apktool
+\n✔️ Descompilar APKs con apktool
 ✔️ Recompilar APKs modificados
 ✔️ Firmar APKs con jarsigner
 ✔️ Convertir archivos .dex a .jar con dex2jar
