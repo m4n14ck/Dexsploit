@@ -13,18 +13,21 @@ Proporciona una interfaz interactiva para:
 ________________________________________________________________________________________________
 
 🔥 Características
+
 ✔️ Instalación automática de herramientas necesarias:
 
-  🔹apktool
-  🔹dex2jar
-  🔹jd-gui
-  🔹smali
+🔹 apktool
+🔹 dex2jar
+🔹 jd-gui
+🔹 smali
 
-🔹✔️ Descompilar APKs con apktool
-🔹✔️ Recompilar APKs modificados
-🔹✔️ Firmar APKs con jarsigner
-🔹✔️ Convertir archivos .dex a .jar con dex2jar
-🔹✔️ Abrir archivos .jar en JD-GUI para análisis
+✔️ Funciones principales:
+
+✅ Descompilar APKs con apktool
+✅ Recompilar APKs modificados
+✅ Firmar APKs con jarsigner
+✅ Convertir archivos .dex a .jar con dex2jar
+✅ Abrir archivos .jar en JD-GUI para análisis
 
 ________________________________________________________________________________________________
 
