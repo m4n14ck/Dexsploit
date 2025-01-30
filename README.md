@@ -24,9 +24,13 @@ ________________________________________________________________________________
 ✔️ Funciones principales:
 
 ✅ Descompilar APKs con apktool
+
 ✅ Recompilar APKs modificados
+
 ✅ Firmar APKs con jarsigner
+
 ✅ Convertir archivos .dex a .jar con dex2jar
+
 ✅ Abrir archivos .jar en JD-GUI para análisis
 
 ________________________________________________________________________________________________
