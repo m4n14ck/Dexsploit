@@ -15,15 +15,16 @@ ________________________________________________________________________________
 🔥 Características
 ✔️ Instalación automática de herramientas necesarias:
 
-apktool
-dex2jar
-jd-gui
-smali
-✔️ Descompilar APKs con apktool
-✔️ Recompilar APKs modificados
-✔️ Firmar APKs con jarsigner
-✔️ Convertir archivos .dex a .jar con dex2jar
-✔️ Abrir archivos .jar en JD-GUI para análisis
+  🔹apktool
+  🔹dex2jar
+  🔹jd-gui
+  🔹smali
+
+🔹✔️ Descompilar APKs con apktool
+🔹✔️ Recompilar APKs modificados
+🔹✔️ Firmar APKs con jarsigner
+🔹✔️ Convertir archivos .dex a .jar con dex2jar
+🔹✔️ Abrir archivos .jar en JD-GUI para análisis
 
 ________________________________________________________________________________________________
 
@@ -49,10 +50,9 @@ ________________________________________________________________________________
 
 3️⃣ Sigue las instrucciones en pantalla para introducir rutas de archivos y completar los procesos.
 
-🛠 Requisitos
-Linux (Ubuntu/Debian)
-C++ Compiler (g++)
-Permisos de administrador (sudo) para instalación automática de herramientas
+🔹 Linux (Ubuntu/Debian)
+🔹 Compilador C++ (g++)
+🔹 Permisos de administrador (sudo) para instalación automática de herramientas
 
 
 ________________________________________________________________________________________________
