@@ -1,19 +1,26 @@
 🔥 Herramienta de Automatización para APKTool 🔥
-![image](https://github.com/user-attachments/assets/f6711aee-7efa-4367-8b87-5b72563be2f4)
+
+![image](https://github.com/user-attachments/assets/2872d31b-b04e-4626-8360-dc205a93e88f)
+
 🚀 ¿Qué es esta herramienta?
 ________________________________________________________________________________________________
 
-Este es un script en C++ diseñado para facilitar la ingeniería inversa en aplicaciones Android (APK). Automatiza la instalación de herramientas esenciales, descompilación, recompilación y firma de archivos APK con una interfaz intuitiva y elegante.
+Este es un script en C++ diseñado para facilitar la ingeniería inversa en APKs de Android. Proporciona una interfaz interactiva para descompilar, recompilar, firmar y analizar aplicaciones Android con herramientas esenciales como apktool, dex2jar y JD-GUI.
 
 ________________________________________________________________________________________________
 
 🔥 Características
-✅ Instalación automática de herramientas esenciales: apktool, dex2jar, jd-gui, smali
-✅ Descompilación de APKs con apktool
-✅ Recompilación de APKs modificados
-✅ Firma digital de APKs para su instalación en dispositivos Android
-✅ Interfaz amigable con colores en consola y mensajes claros
-✅ Compatible con Linux (Ubuntu/Debian)
+
+✔️ Instalación automática de herramientas necesarias:
+apktool
+dex2jar
+jd-gui
+smali
+✔️ Descompilar APKs con apktool
+✔️ Recompilar APKs modificados
+✔️ Firmar APKs con jarsigner
+✔️ Convertir archivos .dex a .jar con dex2jar
+✔️ Abrir archivos .jar en JD-GUI para análisis
 
 ________________________________________________________________________________________________
 
@@ -47,7 +54,7 @@ Permisos de administrador (sudo) para instalación automática de herramientas
 ________________________________________________________________________________________________
 
 📜 Licencia
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia MIT. ¡Siéntete libre de modificar y mejorar! 🚀
 
-🔥 Optimiza tu flujo de trabajo en ingeniería inversa de APKs con esta poderosa herramienta! 🔥
+💡 Contribuciones y mejoras son bienvenidas. ¡Dale una estrella ⭐ en GitHub si te gusta! 😊
 ________________________________________________________________________________________________
