@@ -12,10 +12,12 @@ ________________________________________________________________________________
 🔥 Características
 
 ✔️ Instalación automática de herramientas necesarias:
+
 apktool
 dex2jar
 jd-gui
 smali
+
 ✔️ Descompilar APKs con apktool
 ✔️ Recompilar APKs modificados
 ✔️ Firmar APKs con jarsigner
