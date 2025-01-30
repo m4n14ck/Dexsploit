@@ -5,9 +5,13 @@
 🚀 ¿Qué es esta herramienta?
 Este es un script en C++ diseñado para facilitar la ingeniería inversa en APKs de Android.
 Proporciona una interfaz interactiva para:
+
 ✅ Descompilar
+
 ✅ Recompilar
+
 ✅ Firmar
+
 ✅ Analizar aplicaciones Android usando herramientas esenciales como apktool, dex2jar y JD-GUI.
 
 ________________________________________________________________________________________________
@@ -17,9 +21,13 @@ ________________________________________________________________________________
 ✔️ Instalación automática de herramientas necesarias:
 
 🔹 apktool
+
 🔹 dex2jar
+
 🔹 jd-gui
+
 🔹 smali
+
 
 ✔️ Funciones principales:
 
@@ -39,6 +47,7 @@ ________________________________________________________________________________
 1️⃣ Ejecuta el script:
 
 g++ -o apktool_automation apktool_automation.cpp
+
 ./apktool_automation
 
 ________________________________________________________________________________________________
@@ -58,13 +67,16 @@ ________________________________________________________________________________
 3️⃣ Sigue las instrucciones en pantalla para introducir rutas de archivos y completar los procesos.
 
 🔹 Linux (Ubuntu/Debian)
+
 🔹 Compilador C++ (g++)
+
 🔹 Permisos de administrador (sudo) para instalación automática de herramientas
 
 
 ________________________________________________________________________________________________
 
 📜 Licencia
+
 Este proyecto está bajo la licencia MIT. ¡Siéntete libre de modificar y mejorar! 🚀
 
 💡 Contribuciones y mejoras son bienvenidas. ¡Dale una estrella ⭐ en GitHub si te gusta! 😊
